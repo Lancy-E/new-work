@@ -1,0 +1,71 @@
+body{
+    background-color:rgb(248, 125, 30);
+    color: white;
+}
+
+.nav{
+    width: 200px;
+    height: 16px;
+    line-height: 75px;
+    
+    padding: 100%;
+    
+}
+nav.logo{
+   
+   height: 162px;
+   width: 899%;
+    
+    
+    
+}
+
+.cont{
+    background-color: rgb(8, 3, 1);
+    display: flex;
+    flex-direction: row;
+}
+.logo img{
+    margin-top: 7px;
+    margin-bottom: 7px;
+    
+    border-radius: 1000%;
+    width: 150px;
+    height: 100px;
+}
+.help{
+    margin-left: 50px;
+}
+.premium{
+    margin-left: 900px;
+}
+.download{
+    margin-left: 20px;
+}
+.signup{
+    margin-left: 20px;
+}
+.login{
+    margin-left: 20px;
+}
+
+
+
+
+.sentence{
+    font-size: 40px;
+    padding: 300px;
+    justify-content: space-around;
+    align-items: center;
+    width: 4000px;
+    margin-right: 100%;
+}
+#btn{
+    background-color: darkgreen;
+    margin: 30px 0 0 70px;
+    color: white;
+    border-radius: 50px;
+    width: 480px;
+    height: 70px;
+}
+
