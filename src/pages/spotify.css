@@ -1,6 +1,7 @@
 body{
     background-color:rgb(248, 125, 30);
     color: white;
+    background-image: url(i.png);
 }
 
 .nav{
@@ -21,7 +22,7 @@ nav.logo{
 }
 
 .cont{
-    background-color: rgb(8, 3, 1);
+    background-color: rgba(0, 0,0,0.2);
     display: flex;
     flex-direction: row;
 }
@@ -30,7 +31,7 @@ nav.logo{
     margin-bottom: 7px;
     
     border-radius: 1000%;
-    width: 150px;
+    width: 250px;
     height: 100px;
 }
 .help{
@@ -54,6 +55,8 @@ nav.logo{
 
 .sentence{
     font-size: 40px;
+    margin: 20px;
+    margin-left: 190px;
     padding: 300px;
     justify-content: space-around;
     align-items: center;
